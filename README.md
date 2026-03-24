@@ -56,9 +56,9 @@ npm run dev     # Starts on http://localhost:5173
 | Role | Email | Password |
 |------|-------|----------|
 | Admin | admin@velozity.com | password123 |
-| PM | ravi@velozity.com | password123 |
+| PM | prince@velozity.com | password123 |
 | PM | priya@velozity.com | password123 |
-| Developer | amit@velozity.com | password123 |
+| Developer | Deepak@velozity.com | password123 |
 | Developer | sneha@velozity.com | password123 |
 | Developer | kunal@velozity.com | password123 |
 | Developer | neha@velozity.com | password123 |
