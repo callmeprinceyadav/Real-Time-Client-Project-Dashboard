@@ -1,0 +1,21 @@
+src/components/ActivityFeed.tsx(3,10): error TS1484: 'ActivityLog' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Layout.tsx(18,3): error TS6133: 'ChevronDown' is declared but its value is never read.
+src/components/ProtectedRoute.tsx(4,10): error TS1484: 'Role' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/context/AuthContext.tsx(1,78): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/context/AuthContext.tsx(3,10): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/context/NotificationContext.tsx(1,78): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/context/NotificationContext.tsx(4,10): error TS1484: 'Notification' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/context/SocketContext.tsx(1,65): error TS1484: 'ReactNode' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Clients.tsx(3,10): error TS1484: 'Client' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Dashboard.tsx(7,10): error TS1484: 'DashboardData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Dashboard.tsx(7,25): error TS1484: 'Task' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Dashboard.tsx(7,25): error TS6133: 'Task' is declared but its value is never read.
+src/pages/ProjectDetail.tsx(7,10): error TS1484: 'Project' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/ProjectDetail.tsx(7,19): error TS1484: 'Task' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/ProjectDetail.tsx(7,25): error TS1484: 'ActivityLog' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/ProjectDetail.tsx(7,38): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Projects.tsx(5,10): error TS1484: 'Project' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Projects.tsx(5,19): error TS1484: 'Client' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Tasks.tsx(5,10): error TS1484: 'Task' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/UsersPage.tsx(3,10): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/UsersPage.tsx(4,25): error TS6133: 'UsersIcon' is declared but its value is never read.
